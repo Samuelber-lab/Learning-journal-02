@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Computer setup
+## Command line
+### <span style="color: blue;"> <ins> _definition_ </ins> </span>
+Unlike the [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), it is a text based inteface between a user and a computer system. Graphics does not appear between the two ends. In other words, both the inputs and outputs are in text format. It is more of like communication between people via certain language (i.e., English, Amharic, Deutsch etc). Similarly, one need to know the language (i.e., computer language, aka. [command line](https://software-carpentry.org/lessons/)) so as to communicate efficiently with the computer. In contrast to the GUI, the command line interface (CLI) enables tha user to manage and analyse big data.  
 
-You can use the [editor on GitHub](https://github.com/Samuelber-lab/Learning-journal-02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![image-01](/Users/samuel/Desktop/image_codeFellows_practice/Linux-Cli-vs-Gui.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Text editor
+### <span style="color: blue;"> <ins> _definition_ </ins> </span>
+A text editor is a software that can be downloaded (like sublime, vi, emacs ...) or be in-built with the terminal (e.g., nano) rendering a <ins> suitable environment </ins> to ***write*** and/ or ***edit*** a bunch of text/ code. A good text editor need to have the follwoing features.
+1. show code completion 
+1. highlights synthax
+1. have variety of themes
+    - this reduce eye strain and fatigue when going line-to-line through pool of syntaxs
+    - reduces the time required to go from one line to another line 
+4. label each line of code/ syntax with number, which makes it easy and user friendly to debug coding errors when ever problem appeared during code execution. 
+1. mark tabs
+1. flexibility to choose extensions 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image-02](/Users/samuel/Desktop/image_codeFellows_practice/CLI.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Samuelber-lab/Learning-journal-02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

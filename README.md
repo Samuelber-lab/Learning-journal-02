@@ -5,7 +5,7 @@ Unlike the [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphi
 
 ![image-01](/Users/samuel/Desktop/image_codeFellows_practice/Linux-Cli-vs-Gui.png)
 
-## Text editor
+# Text editor
 ### <span style="color: blue;"> <ins> _definition_ </ins> </span>
 A text editor is a software that can be downloaded (like sublime, vi, emacs ...) or be in-built with the terminal (e.g., nano) rendering a <ins> suitable environment </ins> to ***write*** and/ or ***edit*** a bunch of text/ code. A good text editor need to have the follwoing features.
 1. show code completion 

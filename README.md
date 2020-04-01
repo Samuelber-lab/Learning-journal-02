@@ -3,7 +3,7 @@
 ### <span style="color: blue;"> <ins> _definition_ </ins> </span>
 Unlike the [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface), it is a text based inteface between a user and a computer system. Graphics does not appear between the two ends. In other words, both the inputs and outputs are in text format. It is more of like communication between people via certain language (i.e., English, Amharic, Deutsch etc). Similarly, one need to know the language (i.e., computer language, aka. [command line](https://software-carpentry.org/lessons/)) so as to communicate efficiently with the computer. In contrast to the GUI, the command line interface (CLI) enables tha user to manage and analyse big data.  
 
-'![image-01](/Users/samuel/Desktop/image_codeFellows_practice/Linux-Cli-vs-Gui.png)'
+'![image-01!](/Users/samuel/Desktop/image_codeFellows_practice/Linux-Cli-vs-Gui.png)'
 
 # Text editor
 ### <span style="color: blue;"> <ins> _definition_ </ins> </span>
@@ -18,5 +18,5 @@ A text editor is a software that can be downloaded (like sublime, vi, emacs ...)
 1. flexibility to choose extensions 
 
 
-'![image-02](/Users/samuel/Desktop/image_codeFellows_practice/CLI.png)'
+'![image-02!](/Users/samuel/Desktop/image_codeFellows_practice/CLI.png)'
 
